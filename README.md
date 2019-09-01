@@ -1,2 +1,2 @@
 # Fin-Eng
-Financial Engineering Projects Code
+Financial Engineering Projects Code Regarding Pricing Basic & Exotic Derivatives, Risk Management and Hedging.
