@@ -1,18 +1,18 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-lastmod: 2024-07-12
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+title: "The Role of Equity Financing Constraints in the Transmission of Monetary Policy" 
+date: 2024-12-29
+lastmod: 2024-12-29
+tags: ["monetary policy","financial constraint","investment","stock return"]
+author: ["Heitor Almeida","Timothy Johnson","Sebastiao Oliveira","Yucheng Zhou"]
+description: "This paper analyzes the transmission of monetary policy via financing constraint in equity market to firm investment and stock returns." 
+summary: "This paper analyzes the transmission of monetary policy via financing constraint in equity market to firm investment and stock returns." 
 cover:
-    image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    image: "JK_fce_loginv.png"
+    alt: "Amplification of equity financing constraint"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    URL: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031788"
+    Text: "SSRN link"
 
 ---
 
@@ -20,43 +20,29 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
++ [Paper](mpfc.pdf)
 
 ---
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Our study reveals that equity financing constraints play a unique role in the amplification of monetary policy shocks. By using a text-based metric of financial constraint that distinguishes between a company’s emphasis on equity versus debt financing, we show that equity-focused constrained firms endure more substantial declines in stock prices and implement deeper cuts in capital expenditure and R\&D when faced with a contractionary monetary policy shock. These declines are translated into reductions in innovation output (e.g., patents). Equity-focused constrained firms significantly reduce equity issuance and are more reluctant to run down cash holdings in response to tighter monetary policy, while debt-focused constraints do not seem to play an economically significant role in magnifying the impact of monetary policy shocks. Our findings suggest that the transmission of monetary policy shocks to the corporate sector may not significantly rely on changes in debt financing terms.
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+##### Figure 3: Amplification of equity financing constraint
 
-![](paper1.png)
+![](JK_fce_loginv.png)
 
 ---
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Almeida, Heitor and Johnson, Timothy C. and Oliveira, Sebastiao and Zhou, Yucheng, The Role of Equity Financing Constraints in the Transmission of Monetary Policy (September 16, 2024). Available at SSRN: https://ssrn.com/abstract=5031788 or http://dx.doi.org/10.2139/ssrn.5031788
 
-```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
-```
 
 ---
 
 ##### Related material
 
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
++ [Presentation slides](uiuc_11-12-2024.pdf)

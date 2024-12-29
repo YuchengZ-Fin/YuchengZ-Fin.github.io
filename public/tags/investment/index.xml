@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Investment on Yucheng Zhou</title>
+    <link>http://localhost:1313/tags/investment/</link>
+    <description>Recent content in Investment on Yucheng Zhou</description>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 29 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/investment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Role of Equity Financing Constraints in the Transmission of Monetary Policy</title>
+      <link>http://localhost:1313/papers/paper1/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper1/</guid>
+      <description>This paper analyzes the transmission of monetary policy via financing constraint in equity market to firm investment and stock returns.</description>
+    </item>
+  </channel>
+</rss>
