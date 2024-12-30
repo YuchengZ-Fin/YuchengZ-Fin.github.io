@@ -1,8 +1,8 @@
 ---
-title: "Office Hours"
+title: "Curriculum vitae"
 date: 2024-05-08
 hidemeta: true
-description: "Schedule and location for Professor Dr von Igelfeld's office hours."
+description: "Curriculum vitae of Yucheng zHOU"
 ---
 
 --- 

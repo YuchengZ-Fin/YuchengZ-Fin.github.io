@@ -14,7 +14,7 @@ menu:
           url: papers/
           weight: 2
         - name: CV
-          url: courses/
+          url: officehours/
           weight: 3
         - name: Contact
           url: location/
