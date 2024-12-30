@@ -8,7 +8,7 @@ description: "Curriculum vitae of Yucheng Zhou"
 --- 
 ##### Download
 
-+ [CV](cv.pdf)
++ [CV](https://yuchengzhou.com/cv.pdf)
 
 ---
 
