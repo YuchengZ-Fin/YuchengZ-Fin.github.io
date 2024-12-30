@@ -6,9 +6,9 @@ description: "Curriculum vitae of Yucheng Zhou"
 ---
 
 --- 
-#### Schedule
+##### Download
 
-Office hours take place on Wednesday at 10am.
++ [CV](cv.pdf)
 
 ---
 
