@@ -1,6 +1,6 @@
 ---
 title: "Curriculum vitae"
-date: 2024-05-08
+date: 2024-12-29
 hidemeta: true
 description: "Curriculum vitae of Yucheng Zhou"
 ---
@@ -12,7 +12,7 @@ description: "Curriculum vitae of Yucheng Zhou"
 
 ---
 
-#### Location
+#### Education
 
 By default meetings are in my office. I am also available for virtual meetings on Zoom.
 
