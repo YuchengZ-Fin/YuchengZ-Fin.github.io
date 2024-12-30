@@ -57,7 +57,7 @@ params:
           imageHeight: 260
           buttons:
             - name: JMP
-              url: jmptry/
+              url: jmp/
             - name: Research
               url: papers/
             - name: CV
