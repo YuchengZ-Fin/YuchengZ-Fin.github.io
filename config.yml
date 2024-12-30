@@ -53,8 +53,8 @@ params:
           title: Yucheng Zhou
           subtitle: "I am a PhD student in Finance from University of Illinois at Urbana-Champaign. My research focuses mostly on asset pricing and monetary policy."
           imageUrl: "picture.jpg"
-          imageWidth: 240
-          imageHeight: 260
+          imageWidth: 180
+          imageHeight: 195
           buttons:
             - name: JMP
               url: jmp/
