@@ -2,7 +2,7 @@
 title: "Curriculum vitae"
 date: 2024-05-08
 hidemeta: true
-description: "Curriculum vitae of Yucheng zHOU"
+description: "Curriculum vitae of Yucheng Zhou"
 ---
 
 --- 
