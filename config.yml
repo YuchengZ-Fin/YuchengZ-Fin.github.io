@@ -1,5 +1,5 @@
 baseURL: "https://yuchengzhou.com" 
-title: Yucheng Zhou
+title: Yucheng Zhou | UIUC Finance Ph.D. Student
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -25,7 +25,7 @@ menu:
 
 
 params:
-    description: "I am a Ph.D. student in Finance from University of Illinois at Urbana-Champaign. My research focuses mostly on asset pricing and monetary policy."
+    description: "I am a Ph.D. student in Finance from UIUC. My research focuses mostly on asset pricing and monetary policy."
     author: Yucheng Zhou
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -51,7 +51,7 @@ params:
     profileMode:
           enabled: true
           title: Yucheng Zhou
-          subtitle: "I am a PhD student in finance from University of Illinois at Urbana-Champaign. My research focuses mostly on asset pricing and monetary policy."
+          subtitle: "I am a PhD student in Finance from University of Illinois at Urbana-Champaign. My research focuses mostly on asset pricing and monetary policy."
           imageUrl: "picture.jpg"
           imageWidth: 240
           imageHeight: 260
