@@ -1,18 +1,18 @@
 ---
-title: "JMP" 
+title: "Reallocation and Intermediary" 
 date: 2025-03-15
 lastmod: 2024-12-29
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+tags: ["reallocation","heterogeneous agents","financial intermediary"]
+author: ["Yucheng Zhou"]
+description: "This paper models the impact of financial intermediaries on the reallocation in the real economy." 
+summary: "Building a heterogenous agent asset pricing model, this paper demonstrates the real impact of financial intermediaries on the reallocation in the real economy." 
 cover:
     image: "paper3.png"
     alt: "Vizualisation of an inner hedgehog"
     relative: false
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
+    Text: "SSRN"
 
 ---
 

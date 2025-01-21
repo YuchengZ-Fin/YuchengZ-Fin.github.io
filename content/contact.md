@@ -25,6 +25,8 @@ University of Illinois at Urbana-Champaign
 
 #### References
 
-Heitor Almeida
+Heitor Almeida (halmeida@illinois.edu)
+
+Timothy C. Johnson (tcj@illinois.edu)
 
 ---
