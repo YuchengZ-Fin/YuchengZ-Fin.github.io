@@ -6,10 +6,10 @@ tags: ["monetary policy","financial constraint","investment","stock return"]
 author: ["Heitor Almeida","Timothy Johnson","Sebastiao Oliveira","Yucheng Zhou"]
 description: "This paper analyzes the transmission of monetary policy via financing constraint in equity market to firm investment and stock returns." 
 summary: "This paper analyzes the transmission of monetary policy via financing constraint in equity market to firm investment and stock returns." 
-cover:
-    image: "JK_fce_loginv.png"
-    alt: "Amplification of equity financing constraint"
-    relative: false
+# cover:
+#     image: "JK_fce_loginv.png"
+#     alt: "Amplification of equity financing constraint"
+#     relative: false
 editPost:
     URL: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031788"
     Text: "SSRN link"
