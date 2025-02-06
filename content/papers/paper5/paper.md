@@ -5,10 +5,10 @@ tags: ["monetary policy","duration",]
 author: ["Heitor Almeida", "Timothy Johnson","Sebastiao Oliveira","Yucheng Zhou"]
 description: "We look into the endogenous decisions regarding the duration profile of investment projects among public firms, in response to monetary policy shocks." 
 summary: "We find that in response to monetary tightening, firms tend to invest in projects with shorter duration. We build a model to explain the mechanism behind such decisions."
-cover:
-    image: "/paper_figure.png"
-    alt: "Figure title (preferably 16:9 ratio: 1280x720 pixels)"
-    relative: false
+# cover:
+#     image: "/paper_figure.png"
+#     alt: "Figure title (preferably 16:9 ratio: 1280x720 pixels)"
+#     relative: false
 editPost:
     URL: "https://doi.org/paper_doi"
     Text: "SSRN"

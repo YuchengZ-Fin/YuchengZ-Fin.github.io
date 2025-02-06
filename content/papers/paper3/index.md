@@ -6,10 +6,10 @@ tags: ["reallocation","heterogeneous agents","financial intermediary"]
 author: ["Yucheng Zhou"]
 description: "This paper models the impact of financial intermediaries on the reallocation in the real economy." 
 summary: "Building a heterogenous agent asset pricing model, this paper demonstrates the real impact of financial intermediaries on the reallocation in the real economy." 
-cover:
-    image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
-    relative: false
+# cover:
+#     image: "paper3.png"
+#     alt: "Vizualisation of an inner hedgehog"
+#     relative: false
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
     Text: "SSRN"
