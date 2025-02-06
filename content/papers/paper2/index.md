@@ -18,7 +18,7 @@ summary: "This paper studies a general equilibrium model with heterogeneity in b
 
 ##### News 📣
 
-5/2025 Presentation at SFS Cavalcade at Stevens Institute of Technology  <br>
++ 5/2025 Presentation at SFS Cavalcade at Stevens Institute of Technology  <br>
 
 
 ---

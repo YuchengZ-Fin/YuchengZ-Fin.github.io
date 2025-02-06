@@ -20,8 +20,8 @@ editPost:
 
 ##### News 📣
 
-3/2025 Presentation at MFA in Chicago IL \
-6/2025 Presentation at WFA in Snowbird UT<br>
++ 3/2025 Presentation at MFA in Chicago IL <br>
++ 6/2025 Presentation at WFA in Snowbird UT
 
 ---
 
