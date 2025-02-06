@@ -25,7 +25,7 @@ menu:
 
 
 params:
-    description: "I am a Ph.D. student in Finance from UIUC. My research focuses mostly on asset pricing and monetary policy."
+    description: "I am a Finance Ph.D. student at University of Illinois at Urbana-Champaign. My research focuses on asset pricing and monetary policy."
     author: Yucheng Zhou
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -51,12 +51,12 @@ params:
     profileMode:
           enabled: true
           title: Yucheng Zhou
-          subtitle: "I am a PhD student in Finance from University of Illinois at Urbana-Champaign. My research focuses mostly on asset pricing and monetary policy."
+          subtitle: "I am a Finance PhD student at University of Illinois at Urbana-Champaign. My research focuses on asset pricing and monetary policy."
           imageUrl: "picture.jpg"
           imageWidth: 180
           imageHeight: 195
           buttons:
-            - name: JMP
+            - name: Job Market Paper
               url: jmp/
             - name: Research
               url: papers/
