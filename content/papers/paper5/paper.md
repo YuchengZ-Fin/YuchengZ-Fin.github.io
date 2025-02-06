@@ -1,10 +1,10 @@
 ---
 title: "Endogenous Duration and Monetary Policy" 
 date: 2025-06-01
-tags: ["monetary policy","duration",]
+tags: ["monetary policy","duration","product market"]
 author: ["Heitor Almeida", "Timothy Johnson","Sebastiao Oliveira","Yucheng Zhou"]
 description: "We look into the endogenous decisions regarding the duration profile of investment projects among public firms, in response to monetary policy shocks." 
-summary: "We find that in response to monetary tightening, firms tend to invest in projects with shorter duration. We build a model to explain the mechanism behind such decisions."
+summary: "We find that in response to monetary tightening, firms tend to invest in projects with shorter duration. We build a model to explain the mechanism behind such decisions. (Work in progress)"
 # cover:
 #     image: "/paper_figure.png"
 #     alt: "Figure title (preferably 16:9 ratio: 1280x720 pixels)"
