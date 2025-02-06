@@ -18,6 +18,13 @@ editPost:
 
 ---
 
+##### News 📣
+
+✨3/2025 &nbsp; Presentation at MFA in Chicago IL
+✨3/2025 &nbsp; Presentation at MFA in Chicago IL
+
+---
+
 ##### Download
 
 + [Paper](mpfc.pdf)
