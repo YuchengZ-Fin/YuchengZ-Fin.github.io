@@ -20,8 +20,8 @@ editPost:
 
 ##### News 📣
 
-✨3/2025 &nbsp; Presentation at MFA in Chicago IL
-✨3/2025 &nbsp; Presentation at MFA in Chicago IL
+✨3/2025 Presentation at MFA in Chicago IL
+✨3/2025 Presentation at MFA in Chicago IL
 
 ---
 
