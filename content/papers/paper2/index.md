@@ -15,6 +15,14 @@ summary: "This paper studies a general equilibrium model with heterogeneity in b
 
 ---
 
+
+##### News 📣
+
+✨5/2025 &nbsp; Presentation at SFS Cavalcade at Stevens Institute of Technology  <br>
+✨6/2025 &nbsp; Presentation at WFA in Snowbird UT<br>
+
+---
+
 ##### Download
 
 + [Paper coming soon!]
@@ -33,9 +41,12 @@ What is the role of belief heterogeneity in shaping the equity term structure? W
 
 ---
 
-##### Citation
+<!-- ##### Citation
 
 Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
 
----
+--- -->
 
+##### Related Material
+
++ [Slides coming soon!]

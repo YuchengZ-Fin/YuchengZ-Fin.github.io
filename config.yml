@@ -22,6 +22,9 @@ menu:
         - name: Teaching
           url: teaching/
           weight: 4 
+        - name: News
+          url: news/
+          weight: 6
 
 
 params:
@@ -64,6 +67,8 @@ params:
               url: cv.pdf
             - name: Contact
               url: contact/
+            - name: News
+              url: news/
 
 
     socialIcons:
