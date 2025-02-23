@@ -1,27 +1,27 @@
 ---
 title: "Huggett Meets Epstein-Zin in Continuous Time" 
-date: 2025-06-01
+date: 2024-12-31
 tags: ["heterogeneous agents","recursive preferences","incomplete markets"]
 author: ["Hamilton Galindo Gil", "Ji Huang","Yucheng Zhou"]
 description: "We extend the heterogenous agent models in macroeconomics to consider recursive preferences in continuous time." 
-summary: "We extend the heterogenous agent models in macroeconomics to consider recursive preferences and asset pricing in continuous time. (Work in progress)"
+summary: "We extend the heterogenous agent models in macroeconomics to consider recursive preferences and asset pricing in continuous time framework. (Work in progress)"
 # cover:
 #     image: "/paper_figure.png"
 #     alt: "Figure title (preferably 16:9 ratio: 1280x720 pixels)"
 #     relative: false
-editPost:
-    URL: "https://doi.org/paper_doi"
-    Text: "SSRN"
+# editPost:
+#     URL: "https://doi.org/paper_doi"
+#     Text: "SSRN"
 
 ---
 
 ---
 
 ##### Download:
-
-- [Paper](paper.pdf)
++ [Draft coming soon!]
+<!-- - [Paper](paper.pdf)
 - [Online appendix](appendix.pdf)
-- [Code and data](https://github.com/paper_repo)
+- [Code and data](https://github.com/paper_repo) -->
 
 ---
 
@@ -31,7 +31,7 @@ We extend the Huggett model to consider recursive preferences in continuous time
 
 ---
 
-##### Figure X:  Figure title
+<!-- ##### Figure X:  Figure title
 
 ![](figurex.png)
 
@@ -41,8 +41,8 @@ We extend the Huggett model to consider recursive preferences in continuous time
 
 Author 1, Author 2. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
 
----
+--- -->
 
 ##### Related material
-
-+ [Presentation slides](presentation.pdf)
++ [Slides coming soon!]
+<!-- + [Presentation slides](presentation.pdf) -->

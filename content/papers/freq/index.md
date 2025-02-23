@@ -1,10 +1,10 @@
 ---
 title: "Frequency of Risk Matters: Asset Pricing Implications from a Two-Sector Model" 
-date: 2025-06-01
-tags: ["DSGE","continuous time","two-sector"]
+date: 2025-02-14
+tags: ["persistence","asset pricing","two-sector","DSGE"]
 author: ["Yucheng Zhou"]
 description: "This paper looks into the impact of frequency of risk on the real economy and asset pricing." 
-summary: "The frequency of risk matters, as shown by a two-sector DSGE model in continuous time."
+summary: "I look into the impact of the frequency and persistence of risk, via a two-sector DSGE model in continuous time. (Work in progress)"
 # cover:
 #     image: "/paper_figure.png"
 #     alt: "Figure title (preferably 16:9 ratio: 1280x720 pixels)"

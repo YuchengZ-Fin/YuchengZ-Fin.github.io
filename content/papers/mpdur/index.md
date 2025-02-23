@@ -1,37 +1,36 @@
 ---
-title: "Endogenous Duration and Monetary Policy" 
-date: 2025-06-01
+title: "Duration and Monetary Policy" 
+date: 2025-02-01
 tags: ["monetary policy","duration","product market"]
 author: ["Heitor Almeida", "Timothy Johnson","Sebastiao Oliveira","Yucheng Zhou"]
-description: "We look into the endogenous decisions regarding the duration profile of investment projects among public firms, in response to monetary policy shocks." 
-summary: "We find that in response to monetary tightening, firms tend to invest in projects with shorter duration. We build a model to explain the mechanism behind such decisions. (Work in progress)"
+description: "We look into firms' decisions regarding the duration profile of investment, in response to monetary policy shocks." 
+summary: "We look into firms' decisions regarding the duration profile of investment, in response to monetary policy shocks. (Work in progress)"
 # cover:
 #     image: "/paper_figure.png"
 #     alt: "Figure title (preferably 16:9 ratio: 1280x720 pixels)"
 #     relative: false
-editPost:
-    URL: "https://doi.org/paper_doi"
-    Text: "SSRN"
+# editPost:
+#     URL: "https://doi.org/paper_doi"
+#     Text: "SSRN"
 
 ---
 
 ---
 
 ##### Download:
-
-- [Paper](paper.pdf)
++ [Draft coming soon!]
+<!-- - [Paper](paper.pdf)
 - [Online appendix](appendix.pdf)
-- [Code and data](https://github.com/paper_repo)
+- [Code and data](https://github.com/paper_repo) -->
 
 ---
 
 ##### Abstract:
 
-We extend the Huggett model to consider recursive preferences in continuous time. We then analyze the role of relative risk aversion (RRA) and elasticity of intertemporal substitution (EIS) in determining the equilibrium interest rate and the stationary wealth and consumption distributions. We show that EIS plays a crucial role in shaping wealth and consumption distribution at the aggregate and agent-type levels, while RRA plays a marginal role. Additionally, EIS has strong effects on interest rate and leverage compared to RRA. Our model is characterized by wealth and income heterogeneity among agents, incomplete markets, and a quantitative separation between RRA and EIS, providing a baseline framework for macro-finance models.
 
 ---
 
-##### Figure X:  Figure title
+<!-- ##### Figure X:  Figure title
 
 ![](figurex.png)
 
@@ -41,8 +40,8 @@ We extend the Huggett model to consider recursive preferences in continuous time
 
 Author 1, Author 2. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
 
----
+--- -->
 
 ##### Related material
-
++ [Slides coming soon!]
 + [Presentation slides](presentation.pdf)
