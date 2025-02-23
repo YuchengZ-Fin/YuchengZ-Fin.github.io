@@ -4,7 +4,7 @@ date: 2025-02-01
 tags: ["monetary policy","household loans","mortgage"]
 author: ["Divij Kohli", "Justin Mohr","Yucheng Zhou"]
 description: "We look into the household balance sheet, specifically household debt that is not mortgage." 
-summary: "We look into the household balance sheet, specifically household debt that is not mortgage, and how does monetary policy transmit to households without mortgages. (Work in progress)"
+summary: "We look into the household balance sheet, specifically household debt that is not mortgage, and how does monetary policy transmit to households without mortgages."
 # cover:
 #     image: "/paper_figure.png"
 #     alt: "Figure title (preferably 16:9 ratio: 1280x720 pixels)"

@@ -4,7 +4,7 @@ date: 2025-02-01
 tags: ["monetary policy","duration","product market"]
 author: ["Heitor Almeida", "Timothy Johnson","Sebastiao Oliveira","Yucheng Zhou"]
 description: "We look into firms' decisions regarding the duration profile of investment, in response to monetary policy shocks." 
-summary: "We look into firms' decisions regarding the duration profile of investment, in response to monetary policy shocks. (Work in progress)"
+summary: "We look into firms' decisions regarding the duration profile of investment, in response to monetary policy shocks."
 # cover:
 #     image: "/paper_figure.png"
 #     alt: "Figure title (preferably 16:9 ratio: 1280x720 pixels)"
