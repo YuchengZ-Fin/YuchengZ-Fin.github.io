@@ -10,21 +10,24 @@ taxonomies:
 
 menu:
     main:
-        - name: Research
+        - name: Working Papers
           url: papers/
           weight: 2
+        - name: Work in Progress
+          url: wip/
+          weight: 3
         - name: CV
           url: cv.pdf
-          weight: 3
+          weight: 4
         - name: Contact
           url: contact/
-          weight: 5 
+          weight: 6 
         - name: Teaching
           url: teaching/
-          weight: 4 
+          weight: 5 
         - name: News
           url: news/
-          weight: 6
+          weight: 7
 
 
 params:
