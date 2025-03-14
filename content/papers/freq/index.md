@@ -1,5 +1,5 @@
 ---
-title: "Frequency of Risk Matters: Asset Pricing Implications from a Two-Sector Model" 
+title: "Frequency of Risk Matters: Implications from a Two-Sector Production Economy" 
 date: 2025-02-14
 tags: ["persistence","asset pricing","two-sector","DSGE"]
 author: ["Yucheng Zhou"]
