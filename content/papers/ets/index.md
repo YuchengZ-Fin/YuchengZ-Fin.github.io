@@ -1,7 +1,7 @@
 ---
 title: "Beliefs Heterogeneity and the Equity Term Structure" 
-date: 2024-12-18
-lastmod: 2024-12-30
+date: 2025-05-23
+lastmod: 2025-05-23
 tags: ["heterogeneous agents","equity yields","external habit"]
 author: ["Hamilton Galindo Gil", "Yucheng Zhou"]
 description: "This paper studies the a general equilibrium model with heterogeneity in both risk aversion and beliefs about the expected growth rate of the aggregate endowment." 
@@ -10,7 +10,9 @@ summary: "This paper studies a general equilibrium model with heterogeneity in b
 #     image: "paper2.png"
 #     alt: "Cyclicality of equity yields"
 #     relative: false
-
+editPost:
+    URL: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5311496"
+    Text: "SSRN link"
 ---
 
 ---
