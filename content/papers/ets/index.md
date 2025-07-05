@@ -4,7 +4,7 @@ date: 2025-05-23
 lastmod: 2025-05-23
 tags: ["heterogeneous agents","equity yields","external habit"]
 author: ["Hamilton Galindo Gil", "Yucheng Zhou"]
-description: "This paper studies the a general equilibrium model with heterogeneity in both risk aversion and beliefs about the expected growth rate of the aggregate endowment." 
+description: "This paper studies a general equilibrium model with heterogeneity in both risk aversion and beliefs about the expected growth rate of the aggregate endowment." 
 summary: "This paper studies a general equilibrium model with heterogeneity in both risk aversion and beliefs about the expected growth rate of the aggregate endowment." 
 # cover:
 #     image: "paper2.png"
