@@ -5,7 +5,7 @@ lastmod: 2024-12-29
 tags: ["reallocation","heterogeneous agents","financial intermediary"]
 author: ["Yucheng Zhou (Job Market Paper)"]
 description: "This paper models the impact of financial intermediaries on the reallocation in the real economy." 
-summary: "Building a DSGE model in continuous time featuring heterogeneous agents and multi sectors, this paper demonstrates the real impact of financial frictions on the capital reallocation." 
+summary: "Building a DSGE model in continuous time featuring heterogeneous agents and multiple sectors, this paper demonstrates the real impact of financial frictions on the capital reallocation." 
 # cover:
 #     image: "paper3.png"
 #     alt: "Vizualisation of an inner hedgehog"
