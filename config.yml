@@ -57,7 +57,7 @@ params:
     profileMode:
           enabled: true
           title: Yucheng Zhou
-          subtitle: "I am a Finance PhD student at University of Illinois at Urbana-Champaign. My research focuses on asset pricing and monetary policy."
+          subtitle: "I am a Finance PhD student at University of Illinois at Urbana-Champaign. My research focuses on macro-finance, asset pricing and monetary policy."
           imageUrl: "picture.jpg"
           imageWidth: 180
           imageHeight: 195
