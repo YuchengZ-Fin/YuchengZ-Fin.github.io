@@ -1,6 +1,6 @@
 ---
 title: "Reallocation and Intermediary" 
-date: 2025-01-15
+date: 2025-06-15
 lastmod: 2024-12-29
 tags: ["reallocation","heterogeneous agents","financial intermediary"]
 author: ["Yucheng Zhou (Job Market Paper)"]
