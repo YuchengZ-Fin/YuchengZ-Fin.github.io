@@ -1,7 +1,7 @@
 ---
-title: "The Role of Equity Financing Constraints in the Transmission of Monetary Policy" 
-date: 2025-07-10
-lastmod: 2025-07-01
+title: "The Equity Constraint Channel of Monetary Policy" 
+date: 2024-09-16
+lastmod: 2025-08-09
 tags: ["monetary policy","financial constraint","investment","stock return"]
 author: ["Heitor Almeida","Timothy Johnson","Sebastiao Oliveira","Yucheng Zhou"]
 description: "This paper analyzes the transmission of monetary policy via financing constraint in equity market to firm investment and stock returns." 
@@ -33,7 +33,7 @@ editPost:
 
 ##### Abstract
 
-Our study reveals that equity financing constraints play a unique role in the amplification of monetary policy shocks. By using a text-based metric of financial constraint that distinguishes between a company’s emphasis on equity versus debt financing, we show that equity-focused constrained firms endure more substantial declines in stock prices and implement deeper cuts in capital expenditure and R\&D when faced with a contractionary monetary policy shock. These declines are translated into reductions in innovation output (e.g., patents). Equity-focused constrained firms significantly reduce equity issuance and are more reluctant to run down cash holdings in response to tighter monetary policy, while debt-focused constraints do not seem to play an economically significant role in magnifying the impact of monetary policy shocks. Our findings suggest that the transmission of monetary policy shocks to the corporate sector may not significantly rely on changes in debt financing terms.
+Our study reveals that equity financing constraints play a unique role in the amplification of monetary policy shocks. By using a text-based metric of financial constraint that distinguishes between a company’s emphasis on equity versus debt financing, we show that equity-focused constrained firms endure more substantial declines in stock prices and implement deeper cuts in capital expenditure and R&D when faced with a contractionary monetary policy shock. These declines are translated into reductions in innovation output (e.g., patents). Equity-focused constrained firms significantly reduce equity issuance and are more reluctant to run down cash holdings in response to tighter monetary policy. The greater impact of monetary tightening on equity-focused firms is linked to fluctuations in investor demand that increase the cost of capital for these firms after contractionary shocks. Our findings suggest that the transmission of monetary policy to the corporate sector significantly rely on changes in equity financing terms.
 
 ---
 
@@ -46,7 +46,7 @@ Our study reveals that equity financing constraints play a unique role in the am
 
 ##### Citation
 
-Almeida, Heitor and Johnson, Timothy C. and Oliveira, Sebastiao and Zhou, Yucheng, The Role of Equity Financing Constraints in the Transmission of Monetary Policy (September 16, 2024). Available at SSRN: https://ssrn.com/abstract=5031788 or http://dx.doi.org/10.2139/ssrn.5031788
+Almeida, Heitor and Johnson, Timothy C. and Oliveira, Sebastiao and Zhou, Yucheng, The Equity Constraint Channel of Monetary Policy (August 07, 2025). Available at SSRN: https://ssrn.com/abstract=5031788 or http://dx.doi.org/10.2139/ssrn.5031788
 
 
 ---
