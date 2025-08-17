@@ -5,10 +5,10 @@ tags: ["heterogeneous agents","recursive preferences","incomplete markets"]
 author: ["Hamilton Galindo Gil", "Ji Huang","Yucheng Zhou"]
 description: "We extend the heterogenous agent models in macroeconomics to consider recursive preferences in continuous time." 
 summary: "We extend the heterogenous agent models in macroeconomics to consider recursive preferences and asset pricing in continuous time framework."
-# cover:
-#     image: "/paper_figure.png"
-#     alt: "Figure title (preferably 16:9 ratio: 1280x720 pixels)"
-#     relative: false
+cover:
+    image: "hugget_1.png"
+    alt: "Consumption and Saving"
+    relative: false
 editPost:
     URL: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5311555"
     Text: "SSRN link"
@@ -31,6 +31,11 @@ We extend the Huggett model to consider recursive preferences in continuous time
 
 ---
 
+##### Consumption and Saving
+![](hugget_1.png)
+![](hugget_2.png)
+
+---
 <!-- ##### Figure X:  Figure title
 
 ![](figurex.png)
