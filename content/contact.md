@@ -27,6 +27,8 @@ University of Illinois at Urbana-Champaign
 
 Heitor Almeida (halmeida@illinois.edu)
 
-Timothy C. Johnson (tcj@illinois.edu)
+Victor Duarte (vduarte@illinois.edu)
+
+<!-- Timothy C. Johnson (tcj@illinois.edu) -->
 
 ---
