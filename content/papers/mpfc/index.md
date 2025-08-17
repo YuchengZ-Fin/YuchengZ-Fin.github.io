@@ -38,7 +38,7 @@ Our study reveals that equity financing constraints play a unique role in the am
 ---
 
 ##### Amplification of equity financing constraint
-![](stock.png)
+![](cum_stock.png)
 ![](JK_fce_loginv.png)
 ![](JK_fce_logrd.png)
 ![](JK_fce_holding_TRA.png)
