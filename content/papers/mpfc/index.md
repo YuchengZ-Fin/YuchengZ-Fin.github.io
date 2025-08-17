@@ -41,6 +41,7 @@ Our study reveals that equity financing constraints play a unique role in the am
 ![](stock.png)
 ![](JK_fce_loginv.png)
 ![](JK_fce_logrd.png)
+![](JK_fce_holding_TRA.png)
 
 ---
 
