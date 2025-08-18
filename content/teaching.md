@@ -8,7 +8,15 @@ description: "Teaching information of Yucheng Zhou"
 --- 
 ##### 2025
 
++ Teaching assistant - Empirical Analysis in Finance (UIUC Ph.D.)
+
 + Instructor - Heterogeneous Agent Asset Pricing (CSU Summer School)
+
+---
+
+#### 2024
+
++ Teaching assistant - Empirical Analysis in Finance (UIUC Ph.D.)
 
 ---
 
