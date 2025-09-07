@@ -27,7 +27,7 @@ editPost:
 
 ##### Download
 
-+ [Paper coming soon!]
++ [Paper](ets.pdf)
 
 ---
 

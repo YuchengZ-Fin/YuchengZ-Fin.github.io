@@ -18,7 +18,7 @@ editPost:
 ---
 
 ##### Download:
-+ [Draft coming soon!]
++ [Paper](ezha.pdf)
 <!-- - [Paper](paper.pdf)
 - [Online appendix](appendix.pdf)
 - [Code and data](https://github.com/paper_repo) -->
