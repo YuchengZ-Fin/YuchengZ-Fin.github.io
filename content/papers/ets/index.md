@@ -1,7 +1,7 @@
 ---
 title: "Beliefs Heterogeneity and the Equity Term Structure" 
 date: 2025-05-23
-lastmod: 2025-05-23
+lastmod: 2025-11-06
 tags: ["heterogeneous agents","equity yields","external habit"]
 author: ["Hamilton Galindo Gil", "Yucheng Zhou"]
 description: "This paper studies a general equilibrium model with heterogeneity in both risk aversion and beliefs about the expected growth rate of the aggregate endowment." 
@@ -18,16 +18,21 @@ editPost:
 ---
 
 
-##### News 📣
+<!-- ##### News 📣
 
 + 5/2025 Presentation at SFS Cavalcade at Stevens Institute of Technology  <br>
 
-
----
+--- -->
 
 ##### Download
 
 + [Paper](ets.pdf)
+
+---
+
+##### Selected Presentation
+
++ 5/2025 Presentation at SFS Cavalcade at Stevens Institute of Technology  <br>
 
 ---
 
@@ -49,6 +54,6 @@ Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sa
 
 --- -->
 
-##### Related Material
+<!-- ##### Related Material
 
-+ [Slides coming soon!]
++ [Slides coming soon!] -->

@@ -1,6 +1,7 @@
 ---
 title: "Duration and Monetary Policy" 
 date: 2025-02-01
+lastmod: 2025-11-06
 tags: ["monetary policy","duration","product market"]
 author: ["Heitor Almeida", "Timothy Johnson","Sebastiao Oliveira","Yucheng Zhou"]
 description: "We look into firms' decisions regarding the duration profile of investment, in response to monetary policy shocks." 
@@ -25,10 +26,15 @@ summary: "We look into firms' decisions regarding the duration profile of invest
 
 ---
 
-##### Abstract:
-
+##### Description:
+This paper builds various measures of firm-level duration of investment and balance sheet, and assess the duration channel of monetary policy. We find that contractionary shocks lead to decrease in firm duration, providing evidence that firms actively manage the investment duration in response to changes in interest rates. 
 
 ---
+
+<!-- ##### Abstract:
+
+
+--- -->
 
 <!-- ##### Figure X:  Figure title
 

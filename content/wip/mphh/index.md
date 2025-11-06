@@ -1,10 +1,11 @@
 ---
 title: "The Other Half: Monetary Policy Transmission for Households without Mortgages" 
 date: 2025-02-01
+lastmod: 2025-11-06
 tags: ["monetary policy","household loans","mortgage"]
-author: ["Divij Kohli", "Justin Mohr","Yucheng Zhou"]
+author: ["Viraj Chordiya", "Divij Kohli", "Justin Mohr","Yucheng Zhou"]
 description: "We look into the household balance sheet, specifically household debt that is not mortgage." 
-summary: "We look into the household balance sheet, specifically household debt that is not mortgage, and how does monetary policy transmit to households without mortgages."
+summary: "This paper looks into the transmission of monetary policy to household debt beyond mortgage, and how does monetary policy transmit to households without mortgages."
 # cover:
 #     image: "/paper_figure.png"
 #     alt: "Figure title (preferably 16:9 ratio: 1280x720 pixels)"
@@ -25,11 +26,17 @@ summary: "We look into the household balance sheet, specifically household debt 
 
 ---
 
-##### Abstract:
-
+##### Description:
+This paper utilizes detailed household credit bureau data and differentiate households by housing status. We find that renters are impacted in opposite direction by contractionary monetary policy shocks, compared to mortgagors.
 
 
 ---
+
+<!-- ##### Abstract:
+
+
+
+--- -->
 
 <!-- ##### Figure X:  Figure title
 
