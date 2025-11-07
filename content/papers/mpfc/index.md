@@ -27,8 +27,8 @@ editPost:
 
 ##### Download
 
-+ [Paper](mpfc.pdf)
-+ [Slides](ajoz_09-2025.pdf)
++ [Paper (Updated)](AJOZ_10282025.pdf)
++ [Slides (Updated)](ajoz_09-2025.pdf)
 
 ---
 
