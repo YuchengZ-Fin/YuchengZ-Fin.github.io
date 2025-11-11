@@ -1,8 +1,8 @@
 ---
-title: "Reallocation and Intermediary" 
-date: 2025-06-15
-lastmod: 2025-11-06
-tags: ["reallocation","financial intermediary","financial friction"]
+title: "A Macro-Finance Model of Capital (Mis)Allocation" 
+date: 2025-10-15
+lastmod: 2025-11-10
+tags: ["reallocation","heterogeneous agents","financial friction", "misallocation"]
 author: ["Yucheng Zhou (Job Market Paper)"]
 description: "This paper builds a macro-finance model that investigates the impact of financial frictions on capital reallocation." 
 summary: "Building a DSGE model in continuous time featuring heterogeneous agents and multiple sectors, this paper demonstrates the impact of financial frictions on the capital reallocation." 

@@ -1,11 +1,11 @@
 ---
-title: "Reallocation and Intermediary" 
-date: 2025-01-15
-lastmod: 2024-12-29
-tags: ["reallocation","heterogeneous agents","financial intermediary"]
+title: "A Macro-Finance Model of Capital (Mis)Allocation" 
+date: 2025-10-15
+lastmod: 2025-11-10
+tags: ["reallocation","heterogeneous agents","financial friction", "misallocation"]
 author: ["Yucheng Zhou (Job Market Paper)"]
-description: "This paper models the impact of financial intermediaries on the reallocation in the real economy." 
-summary: "Building a DSGE model in continuous time featuring heterogeneous agents and multiple sectors, this paper demonstrates the real impact of financial frictions on the capital reallocation." 
+description: "This paper builds a macro-finance model that investigates the impact of financial frictions on capital reallocation." 
+summary: "Building a DSGE model in continuous time featuring heterogeneous agents and multiple sectors, this paper demonstrates the impact of financial frictions on the capital reallocation." 
 # cover:
 #     image: "book1.png"
 #     alt: "Portugese Irregular Verbs"
@@ -32,9 +32,16 @@ summary: "Building a DSGE model in continuous time featuring heterogeneous agent
 
 ---
 
-#### Abstract
+##### Description
+The model features heterogeneous agents who can trade multiple risky assets and are subject to state-dependent constraints on portfolio choices. This financial friction plays an important role in capital reallocation across firms.
 
 ---
+
+<!-- ##### Abstract
+
+
+
+--- -->
 
 
 
