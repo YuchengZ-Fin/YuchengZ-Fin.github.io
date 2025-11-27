@@ -1,5 +1,5 @@
 ---
-title: "A Macro-Finance Model of Capital Reallocation and (Mis)Allocation" 
+title: "A Macro-Finance Model of Capital Reallocation and Misallocation" 
 date: 2025-10-15
 lastmod: 2025-11-10
 tags: ["reallocation","heterogeneous agents","financial friction", "misallocation"]
