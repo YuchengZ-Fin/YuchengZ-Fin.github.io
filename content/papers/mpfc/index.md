@@ -1,11 +1,11 @@
 ---
 title: "The Equity Constraint Channel of Monetary Policy" 
 date: 2024-09-16
-lastmod: 2025-11-06
+lastmod: 2025-12-13
 tags: ["monetary policy","financial constraint","investment","stock return"]
 author: ["Heitor Almeida","Timothy Johnson","Sebastiao Oliveira","Yucheng Zhou"]
-description: "This paper analyzes the transmission of monetary policy via financing constraint in equity market to firm investment and stock returns." 
-summary: "This paper analyzes the transmission of monetary policy via financing constraint in equity market to firm investment and stock returns." 
+description: "This paper highlights the role of the equity financing constraints in the transmission of monetary policy." 
+summary: "This paper highlights the role of the equity financing constraints in the transmission of monetary policy." 
 cover:
     image: "JK_fce_loginv.png"
     alt: "Amplification of equity financing constraint"
@@ -27,16 +27,15 @@ editPost:
 
 ##### Download
 
-+ [Paper (Updated)](AJOZ_10282025.pdf)
++ [Paper (Updated)](AJOZ_12062025.pdf)
 + [Slides (Updated)](ajoz_09-2025.pdf)
 
 ---
 
 ##### Selected Presentation
 
-+ 3/2025 Presentation at MFA in Chicago IL <br>
-+ 6/2025 Presentation at WFA in Snowbird UT
-
++ 6/2025 Presentation at WFA in Snowbird UT <br>
++ 3/2025 Presentation at MFA in Chicago IL
 ---
 
 ##### Abstract
