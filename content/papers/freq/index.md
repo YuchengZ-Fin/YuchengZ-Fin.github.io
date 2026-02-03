@@ -7,7 +7,7 @@ author: ["Yucheng Zhou"]
 description: "This paper builds a two-sector DSGE model in continuous time, where two sectors are subject to risks of different persistence." 
 summary: "This paper builds a two-sector DSGE model in continuous time, where two sectors are subject to risks of different persistence."
 cover:
-    image: "/inv.png"
+    image: "inv.png"
     alt: "Investment"
     relative: false
 # editPost:
