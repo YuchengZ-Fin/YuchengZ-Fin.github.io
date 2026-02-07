@@ -1,18 +1,20 @@
 ---
 title: "A Macro-Finance Model of Capital Reallocation and Misallocation" 
 date: 2025-10-15
-lastmod: 2025-11-10
-tags: ["reallocation","heterogeneous agents","financial friction", "misallocation"]
+lastmod: 2026-02-07
+tags: ["heterogeneous investors","financial friction", "reallocation","misallocation"]
 author: ["Yucheng Zhou (Job Market Paper)"]
-description: "This paper builds a macro-finance model that investigates the impact of financial frictions on capital reallocation." 
-summary: "Building a DSGE model in continuous time featuring heterogeneous agents and multiple sectors, this paper demonstrates the impact of financial frictions on the capital reallocation." 
+description: "This paper builds a macro-finance model that investigates the impact of financial intermediaries on capital reallocation and misallocation." 
+summary: "Developing a DSGE model with heterogeneous investors facing financial frictions to study capital reallocation and misallocation." 
 # cover:
-#     image: "paper3.png"
-#     alt: "Vizualisation of an inner hedgehog"
+#     image: "book1.png"
+#     alt: "Portugese Irregular Verbs"
 #     relative: false
 # editPost:
 #     URL: "https://github.com/pmichaillat/hugo-website"
 #     Text: "SSRN"
+# showToc: false
+# disableAnchoredHeadings: false
 
 ---
 
@@ -23,7 +25,6 @@ summary: "Building a DSGE model in continuous time featuring heterogeneous agent
 
 
 --- -->
-
 ##### Download
 
 + [Paper](coming soon!)
@@ -32,7 +33,7 @@ summary: "Building a DSGE model in continuous time featuring heterogeneous agent
 ---
 
 ##### Description
-The model features heterogeneous agents who can trade multiple risky assets and are subject to state-dependent constraints on portfolio choices. This financial friction plays an important role in capital reallocation across firms.
+The model features heterogeneous agents who can trade multiple risky assets and are subject to state-dependent constraints on portfolio choices. This financial friction plays an important role in capital reallocation and misallocation across sectors.
 
 ---
 

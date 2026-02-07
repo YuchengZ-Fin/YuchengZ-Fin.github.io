@@ -1,5 +1,5 @@
 baseURL: "https://yuchengzhou.com" 
-title: Yucheng Zhou | UIUC Finance Ph.D. Student
+title: Yucheng Zhou | Ph.D. Candidate in Finance
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -17,7 +17,7 @@ menu:
           url: wip/
           weight: 3
         - name: CV
-          url: cv2026.pdf
+          url: cv_yz.pdf
           weight: 4
         - name: Contact
           url: contact/
@@ -31,7 +31,7 @@ menu:
 
 
 params:
-    description: "I am a Finance Ph.D. student at University of Illinois at Urbana-Champaign. My research focuses on asset pricing and monetary policy."
+    description: "Ph.D. Candidate in Finance at University of Illinois at Urbana-Champaign."
     author: Yucheng Zhou
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -57,7 +57,7 @@ params:
     profileMode:
           enabled: true
           title: Yucheng Zhou
-          subtitle: "I am a Finance PhD student at University of Illinois at Urbana-Champaign. My research focuses on macro-finance, asset pricing and monetary policy."
+          subtitle: "I am a Ph.D. Candidate in Finance at University of Illinois at Urbana-Champaign. My research focuses on **macro-finance**, **asset pricing** and **monetary policy**. My committee members are Heitor Almeida, Victor Duarte, Neil Pearson, Mathias Kronlund, and Yuchen Chen."
           imageUrl: "picture.jpg"
           imageWidth: 180
           imageHeight: 195
@@ -67,7 +67,7 @@ params:
             - name: Research
               url: papers/
             - name: CV
-              url: cv2026.pdf
+              url: cv_yz.pdf
             - name: Contact
               url: contact/
             - name: News
@@ -76,7 +76,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv2026.pdf
+          url: cv_yz.pdf
         - name: Email
           url: mailto:yz33@illinois.edu
         - name: Google Scholar

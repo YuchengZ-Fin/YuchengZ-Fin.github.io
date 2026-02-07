@@ -1,9 +1,14 @@
 ---
 title: "Teaching"
-date: 2024-05-08
+date: 2026-02-01
 hidemeta: true
 description: "Teaching information of Yucheng Zhou"
 ---
+
+---
+#### 2026
+
++ Teaching assistant - Financial Risk Management (UIUC Graduate)
 
 --- 
 ##### 2025

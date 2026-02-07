@@ -1,6 +1,7 @@
 ---
 title: "The Spillover Effects of U.S. Monetary Policy to International Bond Markets: A Demand Based Approach" 
-date: 2026-12-31
+date: 2027-12-31
+lastmod: 2025-11-06
 tags: ["monetary policy","portfolio holdings","corporate bond", "sovereign bond"]
 author: ["Viraj Chordiya","Yucheng Zhou"]
 description: "We look into the spillover of US monetary policy on international bond markets." 

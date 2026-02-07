@@ -1,6 +1,6 @@
 ---
 title: "Duration and Monetary Policy" 
-date: 2025-02-01
+date: 2027-05-01
 lastmod: 2025-11-06
 tags: ["monetary policy","duration","product market"]
 author: ["Heitor Almeida", "Timothy Johnson","Sebastiao Oliveira","Yucheng Zhou"]

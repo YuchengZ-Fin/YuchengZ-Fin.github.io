@@ -1,6 +1,6 @@
 ---
 title: "Huggett Meets Epstein-Zin in Continuous Time" 
-date: 2024-12-31
+date: 2025-08-31
 tags: ["heterogeneous agents","recursive preferences","incomplete markets"]
 author: ["Hamilton Galindo Gil", "Ji Huang","Yucheng Zhou"]
 description: "We extend the heterogenous agent models in macroeconomics to consider recursive preferences in continuous time." 
