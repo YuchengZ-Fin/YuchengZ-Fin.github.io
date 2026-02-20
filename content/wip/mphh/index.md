@@ -17,7 +17,11 @@ summary: "This paper looks into the transmission of monetary policy to household
 ---
 
 ---
+##### News 📣
 
++ 5/2026 Poster at Boulder Summer Conference on Consumer Financial Decision Making in CO <br>
+
+---
 ##### Download:
 + [Draft coming soon!]
 <!-- - [Paper](paper.pdf)

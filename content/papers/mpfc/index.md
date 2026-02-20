@@ -18,12 +18,12 @@ editPost:
 
 ---
 
-<!-- ##### News 📣
+##### News 📣
 
-+ 3/2025 Presentation at MFA in Chicago IL <br>
-+ 6/2025 Presentation at WFA in Snowbird UT
++ 5/2026 Presentation at SFS Cavalcade in VA <br>
++ 5/2026 Presentation at FIRS in FL
 
---- -->
+---
 
 ##### Download
 
