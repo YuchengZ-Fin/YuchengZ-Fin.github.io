@@ -1,6 +1,6 @@
 ---
 title: "Beliefs Heterogeneity and the Equity Term Structure" 
-date: 2025-05-23
+date: 2024-08-31
 lastmod: 2025-11-06
 tags: ["heterogeneous agents","equity yields","external habit"]
 author: ["Hamilton Galindo Gil", "Yucheng Zhou"]
