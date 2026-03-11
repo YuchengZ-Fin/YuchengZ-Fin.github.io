@@ -38,6 +38,13 @@ This paper develops a continuous-time general equilibrium model in which risk-to
 
 ---
 
+
+##### Tail Risk
+![](growth_dist.png)
+![](crisis_prob.png)
+
+---
+
 <!-- ##### Citation
 
 Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
