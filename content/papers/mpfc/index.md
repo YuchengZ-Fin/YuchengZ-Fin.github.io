@@ -21,14 +21,15 @@ editPost:
 ##### News 📣
 
 + 5/2026 Presentation at SFS Cavalcade in VA <br>
-+ 5/2026 Presentation at FIRS in FL
++ 5/2026 Presentation at FIRS in FL <br>
++ 6/2026 Presentation at CICF in Hongkong
 
 ---
 
 ##### Download
 
-+ [Paper (Updated)](AJOZ_12062025.pdf)
-+ [Slides (Updated)](ajoz_09-2025.pdf)
++ [Paper (Updated)](AJOZ_03232026.pdf)
++ [Slides](ajoz_09-2025.pdf)
 
 ---
 
