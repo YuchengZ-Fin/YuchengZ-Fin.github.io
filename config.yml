@@ -57,7 +57,7 @@ params:
     profileMode:
           enabled: true
           title: Yucheng Zhou
-          subtitle: "I am a Ph.D. Candidate in Finance at University of Illinois at Urbana-Champaign. My research focuses on **macro-finance**, **asset pricing** and **monetary policy**. My committee members are Heitor Almeida, Victor Duarte, Neil Pearson, Mathias Kronlund, and Yuchen Chen."
+          subtitle: "I am a Ph.D. Candidate in Finance at University of Illinois at Urbana-Champaign.    My research focuses on **macro-finance**, **asset pricing**, **monetary policy**, and **machine learning**.     My committee members are Heitor Almeida, Victor Duarte, Neil Pearson, Mathias Kronlund, and Yuchen Chen."
           imageUrl: "picture.jpg"
           imageWidth: 180
           imageHeight: 195

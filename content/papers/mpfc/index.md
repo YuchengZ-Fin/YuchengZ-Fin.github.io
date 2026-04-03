@@ -12,7 +12,7 @@ cover:
     relative: false
 editPost:
     URL: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031788"
-    Text: "SSRN link"
+    Text: "SSRN"
 
 ---
 

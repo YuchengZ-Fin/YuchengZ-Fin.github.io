@@ -10,11 +10,10 @@ cover:
     image: "growth_dist_cover.png"
     alt: "Growth distribution comparison"
     relative: false
-# editPost:
-#     URL: "https://github.com/pmichaillat/hugo-website"
-#     Text: "SSRN"
-# showToc: false
-# disableAnchoredHeadings: false
+editPost:
+    URL: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6397098"
+    Text: "SSRN"
+
 
 ---
 
