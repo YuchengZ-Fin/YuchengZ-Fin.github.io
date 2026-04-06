@@ -7,7 +7,7 @@ author: ["Viraj Chordiya", "Divij Kohli", "Justin Mohr","Yucheng Zhou"]
 description: "We look into the transmission of monetary policy to households' debt balance." 
 summary: "This paper looks into the heterogeneous transmission of monetary policy to households' debt balance."
 cover:
-    image: "total_debt_inc.png"
+    image: "incomecover.png"
     alt: "Heterogenous transmission to household debt"
     relative: false
 editPost:
@@ -36,16 +36,22 @@ What happens to consumer borrowing when interest rates rise? Using a representat
 
 ---
 
-##### Average IRF of Total Debt Balance
+##### Intensive margin: IRF of Total Debt Balance
 
-![](total_debt_avg.png)
+![](intensive.png)
+
+---
+
+##### Extensive margin: IRF of Credit Account
+
+![](extensive.png)
 
 ---
 
 ##### Heterogeneous IRF of Total Debt Balance
 
-![](total_debt_van.png)
-![](total_debt_inc.png)
+![](vantage.png)
+![](income.png)
 
 ---
 
