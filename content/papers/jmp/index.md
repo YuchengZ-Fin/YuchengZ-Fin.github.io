@@ -19,29 +19,24 @@ summary: "Developing a DSGE model with heterogeneous investors facing financial 
 ---
 
 ---
-<!-- ##### News 📣
+##### News 📣
 
-+ 5/2025 Presentation at SFS Cavalcade at Stevens Institute of Technology  <br>
++ 9/2026 Presentation at NSE PhD and Postdoctoral Workshop  <br>
 
+---
 
---- -->
 ##### Download
 
 + [Paper](coming soon!)
 
-
 ---
 
-##### Description
-The model features heterogeneous agents who can trade multiple risky assets and are subject to state-dependent constraints on portfolio choices. This financial friction plays an important role in capital reallocation and misallocation across sectors.
+
+##### Abstract
+
+I quantitatively study the efficiency in capital allocation and financial markets jointly in a general equilibrium model with heterogeneous investors. Leveraged intermediaries allocate wealth across sectors that differ in productivity and risk exposure, and face state-dependent margin constraints. I find that efficiency in financial markets and allocative efficiency in capital are mutually reinforcing. Three forces drive this result. First, efficient capital allocation in the presence of sectoral dispersion requires strong financial balance sheets and efficient risk sharing, and reflects risk-adjusted costs of capital. Second, binding constraints during downturns distort risk sharing among investors and raise risk premia, setting the stage for capital misallocation. Third, the resulting inefficiency in capital composition further affects valuations and growth through risk sharing among investors in constrained states. The mechanisms thus create a feedback loop between efficiency in capital allocation and efficiency in financial markets.
 
 ---
-
-<!-- ##### Abstract
-
-
-
---- -->
 
 <!-- ##### Citation
 

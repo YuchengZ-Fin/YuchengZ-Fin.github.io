@@ -19,6 +19,7 @@ editPost:
 ---
 ##### News 📣
 
++ 10/2026 Presentation at FMA in FL <br>
 + 5/2026 Poster at Boulder Summer Conference on Consumer Financial Decision Making in CO <br>
 
 ---
