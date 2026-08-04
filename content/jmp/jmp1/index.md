@@ -22,7 +22,7 @@ summary: "Developing a DSGE model with heterogeneous investors facing financial 
 ##### News 📣
 
 + 9/2026 Presentation at NSE PhD and Postdoctoral Workshop  <br>
-
++ 10/2026 Presentation at FMA Doctoral Student Consortium 
 ---
 
 ##### Download
