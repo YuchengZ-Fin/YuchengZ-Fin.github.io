@@ -20,10 +20,10 @@ editPost:
 
 ##### News 📣
 
-+ 5/2026 Presentation at SFS Cavalcade in VA <br>
-+ 5/2026 Presentation at FIRS in FL <br>
-+ 6/2026 Presentation at CICF in Hongkong <br>
-+ 8/2026 Presentation at EFA in Ghent
++ 5/2026 Presentation at *SFS Cavalcade* in VA <br>
++ 5/2026 Presentation at *FIRS* in FL <br>
++ 6/2026 Presentation at *CICF* in Hongkong <br>
++ 8/2026 Presentation at *EFA* in Ghent, Belgium
 
 ---
 
