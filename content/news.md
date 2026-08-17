@@ -13,8 +13,8 @@ description: "Yucheng Zhou's news on research."
 <br>
 📣 9/2026 Job market paper **A Macro-Finance Model of Capital Reallocation and Misallocation** will be presented at *NSE PhD Workshop* in Naples, Italy <br>
 <br>
-📣 6/2026 Paper **The Equity Constraint Channel of Monetary Policy Transmission** will be presented at *CICF* in Hong Kong <br>
+📣 6/2026 Paper **The Equity Constraint Channel of Monetary Policy** will be presented at *CICF* in Hong Kong <br>
 <br>
-📣 5/2026 Paper **The Equity Constraint Channel of Monetary Policy Transmission** will be presented at *SFS Cavalcade* (UVA) <br>
+📣 5/2026 Paper **The Equity Constraint Channel of Monetary Policy** will be presented at *SFS Cavalcade* (UVA) <br>
 <br>
-📣 5/2026 Paper **The Equity Constraint Channel of Monetary Policy Transmission** will be presented at *FIRS* in Miami FL<br>
+📣 5/2026 Paper **The Equity Constraint Channel of Monetary Policy** will be presented at *FIRS* in Miami FL<br>

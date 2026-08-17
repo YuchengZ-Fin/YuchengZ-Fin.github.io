@@ -5,7 +5,7 @@ lastmod: 2026-03-31
 tags: ["monetary policy","household balance sheet","inequality"]
 author: ["Viraj Chordiya", "Divij Kohli", "Justin Mohr","Yucheng Zhou"]
 description: "We look into the transmission of monetary policy to households' debt balance." 
-summary: "This paper looks into the heterogeneous transmission of monetary policy to households' debt balance."
+summary: "Using consumer credit recrods, we show that monetary tighening increases household debt, particularly among financially constrained borrowers."
 cover:
     image: "incomecover.png"
     alt: "Heterogenous transmission to household debt"
@@ -57,11 +57,11 @@ What happens to consumer borrowing when interest rates rise? Using a representat
 ---
 
 
-##### Citation
+<!-- ##### Citation
 
 Zhou, Yucheng and Kohli, Divij and Chordiya, Viraj and Mohr, Justin, Rates Up, Balances Up: Uneven Monetary Transmission in Consumer Credit Markets (March 31, 2026). Available at SSRN: https://ssrn.com/abstract=6503298 or http://dx.doi.org/10.2139/ssrn.6503298
 
----
+--- -->
 
 <!-- ##### Related material
 

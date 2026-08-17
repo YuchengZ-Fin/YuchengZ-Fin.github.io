@@ -1,11 +1,11 @@
 ---
 title: "A Macro-Finance Model of Capital Reallocation and Misallocation" 
-date: 2025-10-15
-lastmod: 2026-02-07
+date: 2026-08-15
+lastmod: 2026-08-15
 tags: ["heterogeneous investors","financial friction", "reallocation","misallocation"]
 author: ["Yucheng Zhou (Job Market Paper)"]
 description: "This paper builds a macro-finance model that investigates the impact of financial intermediaries on capital reallocation and misallocation." 
-summary: "Developing a DSGE model with heterogeneous investors facing financial frictions to study capital reallocation and misallocation." 
+summary: "I develop a DSGE model with heterogeneous investors, in which the efficiency of risk-sharing in the financial market and the efficiency of capital allocation result in a feedback loop." 
 # cover:
 #     image: "book1.png"
 #     alt: "Portugese Irregular Verbs"
