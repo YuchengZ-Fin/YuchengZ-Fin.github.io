@@ -1,11 +1,11 @@
 ---
-title: "Pricing Risks in Tangible and Intangible Capital: Implications from a Two-Sector Economy" 
+title: "Transmission of Productivity Shocks: Implications from a Two-Sector Economy" 
 date: 2026-02-01
 lastmod: 2026-02-01
 tags: ["persistence","asset pricing","two-sector","DSGE"]
 author: ["Yucheng Zhou"]
 description: "This paper builds a two-sector DSGE model in continuous time, where two sectors are subject to risks of different persistence." 
-summary: "This paper builds a two-sector DSGE model in continuous time, where two sectors are subject to risks of different persistence."
+summary: "This paper builds a two-sector DSGE model in continuous time, where one of the sectors is subject to productivity risk."
 cover:
     image: "inv.png"
     alt: "Investment"
@@ -18,13 +18,13 @@ cover:
 
 ---
 
-##### Download:
+<!-- ##### Download:
 
 - [Paper](coming soon!)
-<!-- - [Online appendix](appendix.pdf)
-- [Code and data](https://github.com/paper_repo) -->
+- [Online appendix](appendix.pdf)
+- [Code and data](https://github.com/paper_repo)
 
----
+--- -->
 
 <!-- ##### Abstract:
 
