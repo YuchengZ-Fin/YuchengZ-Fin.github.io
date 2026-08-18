@@ -24,7 +24,7 @@ editPost:
 + 6/2026 Presentation at *CICF* in Hong Kong, China <br>
 + 5/2026 Presentation at *FIRS* in FL <br>
 + 5/2026 Presentation at *SFS Cavalcade* in VA <br>
-+ 6/2025 Presentation at WFA in UT
++ 6/2025 Presentation at *WFA* in UT
 
 ---
 

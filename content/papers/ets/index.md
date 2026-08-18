@@ -32,7 +32,7 @@ editPost:
 
 ##### Selected Presentation
 
-+ 5/2025 Presentation at SFS Cavalcade at Stevens Institute of Technology  <br>
++ 5/2025 Presentation at *SFS Cavalcade* in NJ  <br>
 
 ---
 
