@@ -17,7 +17,7 @@ description: "Yucheng Zhou's news on research."
 <br>
 📣 5/2026 Paper **The Equity Constraint Channel of Monetary Policy** will be presented at *SFS Cavalcade* (UVA) <br>
 <br>
-📣 5/2026 Paper **The Equity Constraint Channel of Monetary Policy** will be presented at *FIRS* in Miami FL<br>
-📣 6/2025 Paper **The Role of Equity Financing Constraints in the Transmission of Monetary Policy** will be presented at *WFA* in Snowbird UT<br>
-📣 5/2025 Paper **Beliefs Heterogeneity and the Equity Term Structure** will be presented at *SFS Cavalcade* (Stevens Institute of Technology)<br>
-📣 3/2025 Paper **The Role of Equity Financing Constraints in the Transmission of Monetary Policy** will be presented at *MFA* in Chicago, IL <br>
+📣 5/2026 Paper **The Equity Constraint Channel of Monetary Policy** will be presented at *FIRS* in Miami FL<br><br>
+📣 6/2025 Paper **The Role of Equity Financing Constraints in the Transmission of Monetary Policy** will be presented at *WFA* in Snowbird UT<br><br>
+📣 5/2025 Paper **Beliefs Heterogeneity and the Equity Term Structure** will be presented at *SFS Cavalcade* (Stevens Institute of Technology)<br><br>
+📣 3/2025 Paper **The Role of Equity Financing Constraints in the Transmission of Monetary Policy** will be presented at *MFA* in Chicago, IL <br><br>
