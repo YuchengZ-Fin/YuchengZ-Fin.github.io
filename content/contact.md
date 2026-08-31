@@ -31,9 +31,11 @@ Victor Duarte (vduarte@illinois.edu)
 
 Neil Pearson (pearson2@illinois.edu)
 
-Mathias Kronlund (kronlund@illinois.edu)
+Mahyar Kargar (kargar@illinois.edu)
 
-Yuchen Chen (chen3912@illinois.edu)
+<!-- Mathias Kronlund (kronlund@illinois.edu)
+
+Yuchen Chen (chen3912@illinois.edu) -->
 
 <!-- Timothy C. Johnson (tcj@illinois.edu) -->
 

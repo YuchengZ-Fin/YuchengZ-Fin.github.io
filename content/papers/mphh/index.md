@@ -5,7 +5,7 @@ lastmod: 2026-03-31
 tags: ["monetary policy","household balance sheet","inequality"]
 author: ["Viraj Chordiya", "Divij Kohli", "Justin Mohr","Yucheng Zhou"]
 description: "We look into the transmission of monetary policy to households' debt balance." 
-summary: "Using consumer credit recrods, we show that monetary tighening increases household debt, particularly among financially constrained borrowers."
+summary: "Using consumer credit records, we show that monetary tightening increases household debt, particularly among financially constrained borrowers."
 cover:
     image: "incomecover.png"
     alt: "Heterogenous transmission to household debt"
