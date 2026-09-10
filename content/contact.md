@@ -29,9 +29,9 @@ Heitor Almeida (halmeida@illinois.edu)
 
 Victor Duarte (vduarte@illinois.edu)
 
-Neil Pearson (pearson2@illinois.edu)
-
 Mahyar Kargar (kargar@illinois.edu)
+
+Neil Pearson (pearson2@illinois.edu)
 
 <!-- Mathias Kronlund (kronlund@illinois.edu)
 
