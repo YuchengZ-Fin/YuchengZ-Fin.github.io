@@ -22,6 +22,7 @@ summary: "I develop a DSGE model with heterogeneous investors, in which the effi
 ##### News 📣
 
 + 10/2026 Presentation at *FMA Doctoral Student Consortium* <br>
++ 10/2026 Presentation at *Economics Graduate Student Conference* <br>
 + 9/2026 Presentation at *NSE PhD and Postdoctoral Workshop*
 ---
 
