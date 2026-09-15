@@ -25,13 +25,13 @@ University of Illinois at Urbana-Champaign
 
 #### References
 
-Heitor Almeida (halmeida@illinois.edu)
+Heitor Almeida (halmeida@illinois.edu, +1 (217)333-2704)
 
-Victor Duarte (vduarte@illinois.edu)
+Victor Duarte (vduarte@illinois.edu, +1 (217)300-8467)
 
-Mahyar Kargar (kargar@illinois.edu)
+Mahyar Kargar (kargar@illinois.edu, +1 (217)300-7640)
 
-Neil Pearson (pearson2@illinois.edu)
+Neil Pearson (pearson2@illinois.edu, +1 (217)244-0490)
 
 <!-- Mathias Kronlund (kronlund@illinois.edu)
 
