@@ -7,6 +7,7 @@ description: "Yucheng Zhou's news on research."
 ---
 
 ---
+📣 1/2027 Job market paper **A Macro-Finance Model of Capital Reallocation and Misallocation** will be presented at *AFA Ph.D. Poster*, DC <br><br>
 📣 10/2026 Job market paper **A Macro-Finance Model of Capital Reallocation and Misallocation** will be presented at *FMA Doctoral Student Consortium*, FL <br><br>
 📣 10/2026 Job market paper **A Macro-Finance Model of Capital Reallocation and Misallocation** will be presented at *Economics Graduate Student Conference*, MO <br><br>
 📣 10/2026 Paper **Rates Up, Balances Up: Uneven Transmission of Monetary Policy in Consumer Credit Markets** will be presented at *FMA*, FL <br><br>
