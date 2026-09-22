@@ -1,7 +1,7 @@
 ---
 title: "A Macro-Finance Model of Capital Reallocation and Misallocation" 
-date: 2026-08-15
-lastmod: 2026-08-15
+date: 2026-09-22
+lastmod: 2026-09-22
 tags: ["heterogeneous investors","financial friction", "reallocation","misallocation"]
 author: ["Yucheng Zhou (Job Market Paper)"]
 description: "This paper builds a macro-finance model that investigates the impact of financial intermediaries on capital reallocation and misallocation." 
