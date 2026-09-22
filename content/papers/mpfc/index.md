@@ -1,7 +1,7 @@
 ---
 title: "The Equity Constraint Channel of Monetary Policy" 
-date: 2026-08-10
-lastmod: 2026-08-10
+date: 2026-09-20
+lastmod: 2026-09-20
 tags: ["monetary policy","financial constraint","investment","stock return"]
 author: ["Heitor Almeida","Timothy Johnson","Sebastiao Oliveira","Yucheng Zhou"]
 description: "This paper highlights the role of the equity financing constraints in the transmission of monetary policy." 
@@ -28,9 +28,9 @@ editPost:
 
 ---
 
-##### Download (New version coming soon)
+##### Download
 
-+ [Paper](AJOZ_03232026.pdf)
++ [Paper (New!)](AJOZ_09222026.pdf)
 + [Slides](ajoz_09-2025.pdf)
 
 ---
@@ -38,7 +38,7 @@ editPost:
 
 ##### Abstract
 
-We use a measure of financial constraint that distinguishes between a company's emphasis on equity versus debt financing to show that equity-focused constrained firms endure larger declines in stock prices and implement deeper cuts in investments when faced with contractionary monetary policy shocks. Equity-focused constrained firms reduce equity issuance and are more reluctant to run down cash holdings in response to tighter monetary policy. Contractionary shocks reduce investor demand for the equity of constrained firms, increasing their cost of capital. Our findings suggest that equity frictions are central to understanding the transmission of monetary policy to the corporate sector.
+We show that financially constrained firms that rely on equity at the margin endure larger stock-price declines and deeper cuts in capital expenditures, R&D, and patenting after contractionary monetary policy shocks. We explain these findings with a model where equity and debt markets are partially segmented and contractionary shocks raise the cost of equity more than debt. Price-sensitive investors withdraw from the equity market after tightening, and amplification concentrates in constrained firms with greater ex-ante ownership by price-sensitive investors. Our findings suggest that equity frictions are central to understanding the transmission of monetary policy to the corporate sector.
 
 ---
 
