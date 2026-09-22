@@ -7,7 +7,7 @@ author: ["Heitor Almeida","Timothy Johnson","Sebastiao Oliveira","Yucheng Zhou"]
 description: "This paper highlights the role of the equity financing constraints in the transmission of monetary policy." 
 summary: "Using a measure of equity and debt financial constraint, we show that equity frictions are central to understanding the transmission of monetary policy to the corporate sector." 
 cover:
-    image: "JK_fce_loginv.png"
+    image: "mpfc_cover.png"
     alt: "Amplification of equity financing constraint"
     relative: false
 editPost:

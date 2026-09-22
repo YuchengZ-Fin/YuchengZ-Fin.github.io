@@ -5,11 +5,11 @@ lastmod: 2026-08-15
 tags: ["heterogeneous investors","financial friction", "reallocation","misallocation"]
 author: ["Yucheng Zhou (Job Market Paper)"]
 description: "This paper builds a macro-finance model that investigates the impact of financial intermediaries on capital reallocation and misallocation." 
-summary: "I develop a DSGE model with heterogeneous investors, in which the efficiency of risk-sharing in the financial market and the efficiency of capital allocation result in a feedback loop." 
-# cover:
-#     image: "book1.png"
-#     alt: "Portugese Irregular Verbs"
-#     relative: false
+summary: "Financial constraints reshape intermediaries’ portfolio allocation and risk pricing, altering investment across sectors and the subsequent evolution of capital composition." 
+cover:
+    image: "cover_jmp.png"
+    alt: "Mechanism"
+    relative: false
 # editPost:
 #     URL: "https://github.com/pmichaillat/hugo-website"
 #     Text: "SSRN"
@@ -29,14 +29,14 @@ summary: "I develop a DSGE model with heterogeneous investors, in which the effi
 
 ##### Download
 
-+ [Paper](coming soon!)
++ [Paper](jmp_092026.pdf)
 
 ---
 
 
 ##### Abstract
 
-I quantitatively study the efficiency in capital allocation and financial markets jointly in a general equilibrium model with heterogeneous investors. Leveraged intermediaries allocate wealth across sectors that differ in productivity and risk exposure, and face state-dependent margin constraints. I find that efficiency in financial markets and allocative efficiency in capital are mutually reinforcing. Three forces drive this result. First, efficient capital allocation in the presence of sectoral dispersion requires strong financial balance sheets and efficient risk sharing, and reflects risk-adjusted costs of capital. Second, binding constraints during downturns distort risk sharing among investors and raise risk premia, setting the stage for capital misallocation. Third, the resulting inefficiency in capital composition further affects valuations and growth through risk sharing among investors in constrained states. The mechanisms thus create a feedback loop between efficiency in capital allocation and efficiency in financial markets.
+I quantitatively study the efficiency in capital allocation and financial risk sharing jointly in a general equilibrium model. Leveraged intermediaries allocate wealth across equity claims to sectors that differ in productivity and risk exposure, and face state-dependent margin constraints. I find that intermediaries shape allocative efficiency through their allocation of risk-bearing capacity across assets. Three forces drive this result. First, strong financial balance sheets support efficient risk sharing and sectoral investment guided by risk-adjusted costs of capital. Second, binding constraints during downturns impair intermediaries' risk allocation across assets, distorting sectoral valuations and investment relative to the unconstrained benchmark persistently. Third, these investment responses change the evolution of capital composition, which in turn shapes the risks investors share and their equilibrium pricing. The model identifies a risk-sharing channel of capital misallocation and characterizes a two-way interaction between financial risk sharing and productive capital accumulation.
 
 ---
 

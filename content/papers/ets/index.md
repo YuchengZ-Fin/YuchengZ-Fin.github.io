@@ -7,7 +7,7 @@ author: ["Hamilton Galindo Gil", "Yucheng Zhou"]
 description: "This paper studies a general equilibrium model with heterogeneity in both risk aversion and beliefs about the expected growth rate of the aggregate endowment." 
 summary: "This paper studies a general equilibrium model with heterogeneity in both risk aversion and beliefs about the expected growth rate of the aggregate endowment." 
 cover:
-    image: "paper2.png"
+    image: "ets_cover.png"
     alt: "Cyclicality of equity yields"
     relative: false
 editPost:

@@ -7,7 +7,7 @@ author: ["Viraj Chordiya", "Divij Kohli", "Justin Mohr","Yucheng Zhou"]
 description: "We look into the transmission of monetary policy to households' debt balance." 
 summary: "Using consumer credit records, we show that monetary tightening increases household debt, particularly among financially constrained borrowers."
 cover:
-    image: "incomecover.png"
+    image: "cover_ckmz.png"
     alt: "Heterogenous transmission to household debt"
     relative: false
 editPost:
